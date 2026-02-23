@@ -1,0 +1,22 @@
+  body {
+      background: #eef2f7;
+    }
+    .header-section {
+      background: linear-gradient(135deg, #0d6efd, #6610f2);
+      color: white;
+      padding: 40px 20px;
+      border-radius: 10px 10px 0 0;
+    }
+    .section-title {
+      font-weight: 600;
+      margin-bottom: 15px;
+      border-left: 4px solid #0d6efd;
+      padding-left: 10px;
+    }
+    .card {
+      border: none;
+      border-radius: 10px;
+    }
+    .progress {
+      height:8px;
+    }
